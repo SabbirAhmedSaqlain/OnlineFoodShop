@@ -1,0 +1,59 @@
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) VALUES('Chinigura Rice','gra1','food image/chasi.jpg','106tk/kg','10','grainier'), ('Miniket Rice','gra2','food image/pran.jpg','64tk/kg','10','grainier'),('Bashmati Rice','gra3','food image/national.jpg','208tk/kg','10','grainier'),('Nazirshail Rice','gra4','food image/agomoni.jpg','70tk/kg','10','grainier'),('Binni Rice','gra5','food image/binni.jpg','150tk/kg','10','grainier'),('Atop Rice','gra6','food image/atop.jpg','50tk/kg','10','grainier'),('Kalijira Rice','gra7','food image/ispahani.jpg','120tk/kg','10','grainier'),('Mashur Daal','gra8','food image/mashurindian.jpg','44tk/kg','10','grainier'),('Boot Daal','gra9','food image/boot.jpg','45tk/kg','10','grainier'),('Khesari Daal','gra10','food image/khesari.jpg','44tk/kg','10','grainier'),('Mug Daal','gra11','food image/mug.jpg','150tk/kg','10','grainier'),('Motor Daal','gra12','food image/motor.jpg','156tk/kg','10','grainier')
+
+
+
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) 
+VALUES('Deshi Chicken','fro1','food image/deshichicken.jpg','665','10','frozen'),('Broiler','fro2','food image/broiler.jpg','235','10','frozen'),
+('Beef','fro3','food image/beef.jpg','500','10','frozen'),('Mutton','fro4','food image/mutton.jpg','700','10','frozen'),('Pangas Fish','fro5','food image/pangas.jpg','425','10','frozen'),('Hilsha Fish','fro6','food image/ilis.jpg','1463','10','frozen'),('Prawn','fro7','food image/prawn.jpg','1100','10','frozen'),('Rupchada','fro8','food image/rup.jpg','1050','10','frozen');
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) 
+VALUES('Beef Tikka','fro9','food image/beeftikka.jpg','250','10','frozen'),('Chicken Lollipop','fro10','food image/chickenlolli.jpg','280','10','frozen'),('Beef Meat Ball','fro11','food image/beefball.jpg','275','10','frozen'),('Chicken Meat Ball','fro12','food image/Chickenball.jpg','275','10','frozen');
+
+
+
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) 
+VALUES('Potato','veg1','food image/alu.jpg','25','10','vegetables'),('Tomato','veg2','food image/tomato.jpg','140','10','vegetables'),('Carrot','veg3','food image/carrot.jpg','60','10','vegetables'),('Onion','veg4','food image/onion.jpg','40','10','vegetables'),('Potol','veg5','food image/potol.jpg','60','10','vegetables'),('Cucumber','veg6','food image/cucumber.jpg','90','10','vegetables'),('Korola','veg7','food image/korola.jpg','66','10','vegetables'),('Kakrol','veg8','food image/kakrol.jpg','60','10','vegetables'),('Chilli','veg9','food image/green.jpg','160','10','vegetables'),('Ada','veg10','food image/ginger.jpg','120','10','vegetables'),('Begun','veg11','food image/begun.jpg','80','10','vegetables');
+
+
+
+
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) 
+VALUES('Malta','fru1','food image/malta.jpg','160','10','fruits'),('Apple','fru2','food image/greenapple.jpg','180','10','fruits'),('Guava','fru3','food image/guava.jpg','75','10','fruits'),
+('Orange','fru4','food image/orange.jpg','255','10','fruits'),('Dates','fru5','food image/khejur.jpg','115','10','fruits'),('Banana','fru6','food image/kola.jpg','68','10','fruits'),
+('Grapes','fru7','food image/redgrapes.jpg','110','10','fruits');
+
+
+
+
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) 
+VALUES('Morich Gura','spi1','food image/morich.jpg','42','10','spices'),('Holud Gura','spi2','food image/termuric.jpg','37','10','spices'),('Jeera Gura','spi3','food image/jira.jpg','80','10','spices'),('Dhoniya Gura','spi4','food image/dhonia.jpg','30','10','spices'),('Garam Masla','spi5','food image/garam.jpg','150','10','spices'),('Lobongo','spi6','food image/cloves.jpg','160','10','spices'),('Cardamom','spi7','food image/cardamom.jpg','209','10','spices'),('Black Cumin','spi8','food image/kalojira.jpg','36','10','spices'),('Panch Foron','spi9','food image/pachforon.jpg','22','10','spices'),('Cinnamon','spi10','food image/cinnamon.jpg','104','10','spices'),('Dried Chilli','spi11','food image/suknamorich.jpg','25','10','spices'),('Bay Leaves(Tejpata)','spi12','food image/Bay Leaves.jpg','30','10','spices');
+
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) 
+VALUES('Coca Cola(250ml)','bev9','food image/coke.jpg','40','10','beverages'),('Sprite(250ml)','bev10','food image/sprite.jpg','40','10','beverages'),('Mirinda(500ml)','bev11','food image/mirinda.jpg','30','10','beverages'),('Mojo(500ml)','bev12','food image/mojo.jpg','25','10','beverages'),('Clemon(250ml)','bev13','food image/clemon.jpg','16','10','beverages');
+
+
+
+
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) 
+VALUES('Mum(2ltr)','bev14','food image/mum.jpg','30','10','beverages'),('Fresh(3ltr)','bev15','food image/fresh.jpg','40','10','beverages'),('Jibon(5ltr)','bev16','food image/jibon.jpg','65','10','beverages'),('Aquafina(500ml)','bev17','food image/aquafina.jpg','15','10','beverages'),('Ovaltin','bev18','food image/oval.jpg','395','10','beverages'),('Horlicks','bev19','food image/horlicks.jpg','395','10','beverages'),('Tang(250ml)','bev20','food image/tang.jpg','450','10','beverages'),('Foster Clerk','bev21','food image/foster.jpg','320','10','beverages');
+
+
+
+
+
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) 
+VALUES('Aarong Dairy Pure Ghee(400gm)','ghe1','food image/pureghee.jpg','450','10','ghee'),('Red Cow Ghee(900gm)','ghe2','food image/redcow.jpg','1075','10','ghee'),('Pran Premium Ghee(400gm)','ghe3','food image/pureghee.jpg','450','10','ghee'),('Farm Fresh Ghee(200gm)','ghe4','food image/farm.jpg','250','10','ghee');
+
+
+
+
+
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) 
+VALUES('Sunflower Oil(5ltr)','oil1','food image/sunflower.jpg','1045','10','oil'),('Soyabean Oil(5ltr)','oil2','food image/soyabean.jpg','540','10','oil'),('Olive Oil(500ml)','oil3','food image/olive.jpg','430','10','oil'),('Rice Bran Oil(5ltr)','oil4','food image/ricebran.jpg','605','10','oil'),('Mustard Oil(250ml)','oil5','food image/mustard.jpg','60','10','oil');
+
+
+
+
+
+
+INSERT INTO `products` ( `name`, `code`, `image`, `price`,`quantity`,`type` ) 
+VALUES('Suger(1kg)','sal1','food image/sugar.jpg','72','10','salt and sugar'),('Salt(1kg)','sal2','food image/salt.jpg','40','10','salt and sugar'),('Rock Salt(100gm)','sal3','food image/rock.jpg','28','10','salt and sugar'),('Salt Jar(135gm)','sal4','food image/jar.jpg','14','10','salt and sugar'),('Akher Chini(1kg)','sal5','food image/akh.jpg','70','10','salt and sugar');
